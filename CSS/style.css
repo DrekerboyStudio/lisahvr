@@ -39,6 +39,11 @@ nav {
     transform: scale(1.1);
 }
 
+.gallery h1 {
+    color: white;
+    font-size: 300%;
+}
+
 .mid h1 {
     text-align: center;
     color: white;
