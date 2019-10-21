@@ -7,9 +7,6 @@ body {
     width: 5%;
     margin: 10px;
     float: left;
-}
-
-.lisahvr {
     color: white;
     padding-top: 30px;
     font-size: 500%;
@@ -19,6 +16,7 @@ nav {
     background-color: white;
     padding: 30px;
     font-size: 200%;
+    margin-top: 150px;
 }
 
 .back {
@@ -45,4 +43,6 @@ nav {
     text-align: center;
     color: white;
     font-size: 500%;
+    margin-top: 0;
+    margin-bottom: 0;
 }
