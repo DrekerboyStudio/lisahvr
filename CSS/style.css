@@ -1,0 +1,48 @@
+body {
+    background-color: #F5CAC3;
+}
+
+.logo {
+    height: 5%;
+    width: 5%;
+    margin: 10px;
+    float: left;
+}
+
+.lisahvr {
+    color: white;
+    padding-top: 30px;
+    font-size: 500%;
+}
+
+nav {
+    background-color: white;
+    padding: 30px;
+    font-size: 200%;
+}
+
+.back {
+    float: right;
+}
+
+.gallery {
+    margin: 10px 50px;
+}
+
+.gallery img {
+    width: 230px;
+    padding: 5px;
+    filter: grayscale(100%);
+    transition: 1s;
+}
+
+.gallery img:hover {
+    filter: grayscale(0);
+    transform: scale(1.1);
+}
+
+.mid h1 {
+    text-align: center;
+    color: white;
+    font-size: 500%;
+}
